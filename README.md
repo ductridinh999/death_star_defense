@@ -11,14 +11,14 @@ https://death-star-defense-flutter.web.app
 
 ## Brief instructions on how to use the application
 
-# How to Play
+### How to Play
 1. From the main menu, click "Start Game" to view the level selection screen.
 2. Choose an unlocked level to begin. You must beat previous levels to unlock higher ones.
 3. Rebel ships will spawn from the edges of the screen and fly towards the Death Star in the center.
 4. Tap (or click) on the rebel ships to destroy them before they reach the Death Star. 
 5. If a ship hits the Death Star, you lose 1 Health. You start with 3 Health. Survive for 30 seconds without losing all your health to win the level.
 
-# Features
+### Features
 1. Three Difficulty Levels: Progress through 3 distinct levels with increasing enemy ship speeds and faster spawn rates.
 2. Saved Progression: Your highest unlocked level is automatically saved between sessions.
 3. Responsive Scaling: The game automatically scales to fit your device's screen size while maintaining its aspect ratio.
