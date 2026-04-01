@@ -1,0 +1,30 @@
+# IDEs and System
+.idea/
+.vscode/
+.DS_Store
+*.iml
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+/build/
+/pubspec.lock
+
+# Desktop and Mobile platforms (Excluding all except primary code & web)
+/android/
+/ios/
+/linux/
+/macos/
+/windows/
+
+# GitHub and Tool-specific
+.github/
+.firebaserc
+.firebase/
+firebase-debug.log*
+
+# Documentation
+/doc/
+/coverage/
