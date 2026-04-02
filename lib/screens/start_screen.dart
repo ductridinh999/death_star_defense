@@ -60,7 +60,10 @@ class StartScreen extends StatelessWidget {
                           children: [
                             const Text(
                               'A tower-defense style game where you protect '
-                              'the Death Star from incoming rebel ships.',
+                              'the Death Star from incoming rebel ships.\n\n'
+                              'Click or tap on the rebel ships to destroy them before '
+                              'they reach the Death Star. Survive for 30 seconds '
+                              'without losing all your health to win the level.',
                             ),
                           ],
                         );
